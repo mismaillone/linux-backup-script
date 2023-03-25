@@ -29,6 +29,10 @@ Error handling
 
 The script includes error handling for the database backup, which will print an error message to standard error output (stderr) and exit the script with a non-zero status code if the backup fails.
 
+Usage 
+
+./backup.sh
+
 Compression
 
 The script uses gzip compression to reduce the size of the backup files, making them easier to store and transfer.
