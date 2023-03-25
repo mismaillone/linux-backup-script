@@ -31,6 +31,10 @@ The script includes error handling for the database backup, which will print an 
 
 Usage 
 
+git clone   # the repo 
+
+cd linux-backup-script/
+
 ./backup.sh
 
 Compression
