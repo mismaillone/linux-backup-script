@@ -10,12 +10,19 @@ Configuration
 
 The script uses variables to configure various values that you can modify to suit your needs. These variables are:
 •	BACKUP_DIR: The directory where backup files will be stored.
+
 •	DATE: The date format to be used for the backup files.
+
 •	LOG_FILE: The file where backup status will be logged.
+
 •	HOME_DIR: The home directory to be backed up.
+
 •	DATABASE_NAME: The name of the database to be backed up.
+
 •	DATABASE_USER: The username to be used to access the database.
+
 •	DATABASE_PASSWORD: The password to be used to access the database.
+
 You can modify these variables to change the backup directory, date format, log file, home directory, or database information as needed.
 
 Error handling
